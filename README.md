@@ -4,3 +4,6 @@
 ・操作
   視点移動：WASD
   各ユニットの回転：ドラッグ
+
+URL
+  https://koizumiharuto.github.io/InSideTheCube/
